@@ -9,6 +9,8 @@ Orange
 Pink
 Unicorn
 Yellow
+Loki
 
 These are the colors in rainbow.
 and the Unicorns.
+and loki
