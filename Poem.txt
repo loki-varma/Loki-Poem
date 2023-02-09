@@ -9,6 +9,7 @@ Orange
 Pink
 Unicorn
 Yellow
+cranberry
 
 These are the colors in rainbow.
 and the Unicorns.
