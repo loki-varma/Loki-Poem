@@ -10,6 +10,7 @@ Pink
 Unicorn
 Yellow
 Loki
+cranberry
 
 These are the colors in rainbow.
 and the Unicorns.
